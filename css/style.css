@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.folha{
+    width: 650px;
+}
+
+
+.folha > input{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
